@@ -1,0 +1,23 @@
+{
+  "name": "flowdock-electrolyte",
+  "version": "1.0.0",
+  "description": "a lightweight, flexible and fun way to protoype for Agile Central",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flowdock/electrolyte"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "next": "^1.2.3",
+    "react-icons": "^2.2.3",
+    "tachyons-sass": "^4.7.1"
+  },
+  "scripts": {
+    "dev": "next"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
